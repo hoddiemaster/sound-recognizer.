@@ -1,0 +1,34 @@
+body {
+    background-color:cyan;
+    font-family: 'special elite',cursive;
+}
+.header_div {
+    background-color:darkblue;
+    color:darkturquoise;
+}
+.copy_right_footer {
+    position :fixed;
+    bottom: 0;
+    color:black;
+    background-color:lightblue;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    font-weight: bold;
+text-shadow: 5px 5px 5px black;
+box-shadow:5px 5px 5px white;
+}
+.header_div p {
+    font-family: 'Roboto','Sans-serif';
+    color: grey;
+    letter-spacing: 2px;
+    font-size:12px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: 'cursive';
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
